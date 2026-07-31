@@ -1,6 +1,5 @@
 # Heimat Hamm
 Android and iOS application to allow users to discover facts about Hamm using augmented reality.
-Funding notice
 
 ## Funding notice
 The application Heimat Hamm is funded by the Ministry for Home Affairs, Local Government, Construction and Digitalisation of the State of North Rhine-Westphalia, as part of the 800th anniversary celebrations of the city of Hamm. Further information under: https://www.hamm.de/800

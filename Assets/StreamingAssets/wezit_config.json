@@ -1,0 +1,10 @@
+{
+	"updateWezit":true,
+	"manifestUrl": "https://static.wezit.io/005196/appdata/wzobj_application_27a92716-cc16-46c6-b4fe-5fa4d5bc5190/manifest.json",
+	"version": "cdn-v3",
+	"online": false,
+	"loadLocalAssets": true,
+	"downloadAssetsOnStartup": false,
+	"downloadTransformation": "default",
+	"downloadSettingsAssetsOnStartup": true
+}

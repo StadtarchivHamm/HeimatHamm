@@ -1,0 +1,41 @@
+{
+	"app": {
+		"bundleId": "com.mazedia.unity.app_name",
+		"defaultLanguage": "de",
+		"standByDelay": 180,
+		"standByDelaySettingKey": "global.config.standByDelay.number",
+		"showVersionSettingKey": "global.config.showVersion.bool",
+		"cursorVisible": true,
+		"devMode": false,
+		"loadWezit": true,
+		"backgroundColor": "#FFFFFF",
+		"screenFadeTime": 0.2,
+		"languageSelecterInteractive": true,
+		"languageSelecterVisible": true,
+		"targetFrameRate": 30,
+		"homeView_diapoShowingTime": 5,
+		"homeView_diapoAnimZoomScale": 1.1,
+		"homeView_diapoAnimZoomMoveOnX": 50,
+		"homeView_diapoAnimZoomMoveOnY": 20,
+		"resolutionSettings": {
+			"force": false,
+			"targetWidth": 1920,
+			"targetHeight": 1080,
+			"fullscreen": true,
+			"checkChanges": true
+		}
+	},
+	"unityFileDebugConfig": {
+		"writeInFile": false,
+		"useAbsolutePath": false,
+		"absolutePath": "",
+		"fileName": "",
+		"fileType": "TXT",
+		"showUI": false,
+		"maxLogsDisplayed": 30,
+		"addType": false,
+		"addTime": true,
+		"addLog": true,
+		"addStack": false
+	}
+}

@@ -307,17 +307,4 @@ The settings are organised by screen as much as possible, with the following div
 
 The settings are named using the following structure:
 
-contexte_large.contexte_précis.objet_du_setting.type_de_setting
-
 big_context.smaller_context.the_thing.type_of_the_thing
-
-The setting modifying the tour start button can be decomposed as follow:
-
-tour.intro.start.button.text
-
-And the splash screen video setting this way:
-
-splash.screen.background.video
-=======
-Path de la scene à intégrer à la build :
-`Assets/Scenes/Main.unity`

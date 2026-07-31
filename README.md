@@ -1,6 +1,11 @@
 # Heimat Hamm
 Android and iOS application to allow users to discover facts about Hamm using augmented reality.
+Funding notice
 
+## Funding notice
+The application Heimat Hamm is funded by the Ministry for Home Affairs, Local Government, Construction and Digitalisation of the State of North Rhine-Westphalia, as part of the 800th anniversary celebrations of the city of Hamm. Further information under: https://www.hamm.de/800
+<img width="664" height="142" alt="logo-ministerium-nrw" src="https://github.com/user-attachments/assets/b6438159-af7b-40f7-b86b-32d1b62a8a31" />
+<img width="135" height="150" alt="Logo800JahreGold" src="https://github.com/user-attachments/assets/0162eb04-397d-4ef4-80fc-2f01d3cdda93" />
 
 # Wezit Entity:
 * https://studio.wezit.io/
@@ -67,6 +72,7 @@ When initializing the view content, we create a new runtime reference library co
 POI reference image set in the Wezit CMS. AR Foundation will then look for this image and
 inform the script when it is detected, along with its position. It will then use real-world reference points to maintain objects in place.
 
+<<<<<<< HEAD
 
 ## Wezit data structure (except for the settings)
 
@@ -313,3 +319,12 @@ tour.intro.start.button.text
 And the splash screen video setting this way:
 
 splash.screen.background.video
+=======
+Path de la scene à intégrer à la build :
+`Assets/Scenes/Main.unity`
+
+## Funding notice
+The application Heimat Hamm is funded by the Ministry for Home Affairs, Local Government, Construction and Digitalisation of the State of North Rhine-Westphalia, as part of the 800th anniversary celebrations of the city of Hamm. Further information under: https://www.hamm.de/800
+<img width="664" height="142" alt="logo-ministerium-nrw" src="https://github.com/user-attachments/assets/b6438159-af7b-40f7-b86b-32d1b62a8a31" />
+<img width="135" height="150" alt="Logo800JahreGold" src="https://github.com/user-attachments/assets/0162eb04-397d-4ef4-80fc-2f01d3cdda93" />
+>>>>>>> 9af2ba5ccc873a08f686110ee960c7606d08d51f

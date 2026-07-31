@@ -35,3 +35,8 @@ Pour compiler en ligne de commande :
 
 Path de la scene à intégrer à la build :
 `Assets/Scenes/Main.unity`
+
+## Funding notice
+The application Heimat Hamm is funded by the Ministry for Home Affairs, Local Government, Construction and Digitalisation of the State of North Rhine-Westphalia, as part of the 800th anniversary celebrations of the city of Hamm. Further information under: https://www.hamm.de/800
+<img width="664" height="142" alt="logo-ministerium-nrw" src="https://github.com/user-attachments/assets/b6438159-af7b-40f7-b86b-32d1b62a8a31" />
+<img width="135" height="150" alt="Logo800JahreGold" src="https://github.com/user-attachments/assets/0162eb04-397d-4ef4-80fc-2f01d3cdda93" />
